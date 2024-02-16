@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashu Kumar</h1>
 <h3 align="center">Exploring the world through code, travel, and cinema – on a mission to learn, create, and inspire</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif"/>
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashukr22" alt="ashukr22" /></a> </p>
 
