@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashu Kumar</h1>
 <h3 align="center">Exploring the world through code, travel, and cinema – on a mission to learn, create, and inspire</h3>
-<img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=FgKybAXu&id=C5F7FE21AA88AE7D0D44434814D940BAF86EEDF4&thid=OIP.FgKybAXueBIGldWSpouJEgHaFj&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.1602b26c05ee78120695d592a68b8912%3frik%3d9O1u%252bLpA2RRIQw%26riu%3dhttp%253a%252f%252fwww.textures4photoshop.com%252ftex%252fthumbs%252fmatrix-code-animation-gif-free-animated-background-716.gif%26ehk%3dWUVCioIV7kR5uuDGvMDZqWHy7xCswZFIHgwKQewHnS4%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=600&expw=800&q=coding+animated+gif&simid=608030051079253189&FORM=IRPRST&ck=C581C653F78F282617BA612049EC47D1&selectedIndex=22&itb=0"/>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashukr22" alt="ashukr22" /></a> </p>
 
