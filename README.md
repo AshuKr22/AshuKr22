@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashukr22" alt="ashukr22" /></a> </p>
 
-- 🔭 I’m currently working on [Talkie- a real-time chat app](https://talkie-chat.onrender.com/)
+- 🔭 I’m currently working on [daccotta- a social network for movies](https://daccotta.com/)
 
 - 🌱 I’m currently learning **Rust and Next.js**
 
