@@ -12,6 +12,9 @@
 
 - 📫 How to reach me **ashukr2218@gmail.com**
 
+
+![Profile Views](https://komarev.com/ghpvc/?username=ashukr22)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ashukr22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashukr22" height="30" width="40" /></a>
